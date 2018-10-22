@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\playerController.cs">
+    <Files>
+      <File FileName="Assets\scripts\playerController.cs" Line="19" Column="31" />
+      <File FileName="Assets\scripts\HUD.cs" Line="16" Column="56" />
+      <File FileName="Assets\scripts\chooseAns.cs" Line="9" Column="91" />
+      <File FileName="Assets\scripts\changeScene.cs" Line="10" Column="70" />
+      <File FileName="Assets\scripts\mob.cs" Line="21" Column="63" />
+      <File FileName="Assets\scripts\NPCDialog.cs" Line="43" Column="18" />
+      <File FileName="Assets\scripts\shoot.cs" Line="28" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
